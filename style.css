@@ -1,5 +1,5 @@
 body {
-    font-size: 140%;
+    font-size: 120%;
 }
 
 .heading-colour {
@@ -49,7 +49,8 @@ section {
     padding: 3%;
     border-radius: 10%;
     margin: 0% 2% 0 4%;
-    width: 30%;
+    width: 50%;
+
 
 }
 
@@ -57,7 +58,7 @@ section {
     background-color: rgb(209, 198, 161);
     padding: 3%;
     border-radius: 10%;
-    width: 30%;
+    width: 50%;
 
 }
 
@@ -66,17 +67,29 @@ section {
     padding: 3%;
     border-radius: 10%;
     margin: 0 4% 0 2%;
-    width: 30%;
+    width: 50%;
 }
 
 .second-part-3 img {
-    width: 30%;
+    width: 50%;
 }
 
 .second-part-2 img {
-    width: 30%;
+    width: 50%;
 }
 
 .second-part-1 img {
-    width: 30%;
+    width: 50%;
+}
+
+.third-part-1 img {
+    width: 80%;
+    padding: 30%;
+
+}
+
+.third-part-2 {
+
+    margin: 16% 0 2% 10%;
+
 }
