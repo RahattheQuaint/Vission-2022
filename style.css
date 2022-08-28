@@ -123,3 +123,14 @@ section {
 
 
 }
+
+.final-headline {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
