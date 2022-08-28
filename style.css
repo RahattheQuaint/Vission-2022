@@ -101,3 +101,25 @@ section {
     padding: 10% 10% 10% 0%;
 
 }
+
+.fourth-part-1 {
+    width: 100%;
+    padding: 10% 5% 10% 10%;
+
+
+
+}
+
+.fourth-part-2 img {
+    width: 70%;
+    padding: 5% 30% 5% 0%;
+
+    background-image: url(images/shapes/shape-1.png);
+    background-position-x: 420px;
+    background-position-y: 425px;
+    background-repeat: no-repeat;
+    background-size: 23%;
+    background-origin: padding-box;
+
+
+}
