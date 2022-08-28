@@ -83,13 +83,21 @@ section {
 }
 
 .third-part-1 img {
-    width: 80%;
-    padding: 30%;
+    width: 50%;
+    padding: 10% 0% 10% 42%;
+    background-image: url(images/shapes/shape-1.png);
+
+    background-size: 40%;
+    background-repeat: no-repeat;
+
+    background-position-x: 190px;
+    background-position-y: 110px;
+
 
 }
 
 .third-part-2 {
-
-    margin: 16% 0 2% 10%;
+    width: 100%;
+    padding: 10% 10% 10% 0%;
 
 }
